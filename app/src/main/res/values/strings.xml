@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LAB4</string>
+    <string name="notes" translatable="false">Notes</string>
+    <string name="add_note" translatable="false">Add Note</string>
+    <string name="save" translatable="false">Save</string>
+    <string name="note_text">Note text</string>
+    <string name="msg_last_saved_note" translatable="false">Last saved note</string>
+    <string name="remove_note" translatable="false">Remove note</string>
+    <string name="update_note" translatable="false">Update</string>
+    <string name="sec_add_note" translatable="false">Secondary menu item</string>
+    <string name="dunno" translatable="false">Dunno</string>
+    <string name="landscape_update" translatable="false">Landscape update</string>
+    <string name="msg_updated_clicked" translatable="false">Update Clicked</string>
+    <string name="msg_dunno_clicked" translatable="false">Dunno Clicked</string>
+    <string name="add_a_new_note">Add a New Note</string>
+    <string name="title_edit_text_description">Enter the title</string>
+    <string name="note_edit_text_description">Enter your note</string>
+</resources>
